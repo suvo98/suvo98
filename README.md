@@ -30,9 +30,9 @@ Welcome to my GitHub! I'm a passionate Full Stack Software Developer and Team Le
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@hasansuvo5962"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/md-hasan-mahmud-814936182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:suvohasan98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://www.youtube.com/@hasansuvo5962"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/md-hasan-mahmud-814936182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="mailto:suvohasan98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
