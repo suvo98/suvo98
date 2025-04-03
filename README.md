@@ -1,6 +1,6 @@
 # Hi, I'm Hasan 👋
 
-## 🚀 Full Stack Software Developer | Team Lead
+## 🚀 Full-Stack Software Developer | Team Lead
 
 Welcome to my GitHub! I'm a passionate Full Stack Software Developer and Team Lead with expertise in designing and developing business solutions for the garment industry, manufacturing, accounting, store management, TNA (Time & Action), and graphical data visualization.
 
